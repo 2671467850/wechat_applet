@@ -1,0 +1,935 @@
+{
+  "data": {
+    "content": {
+      "header": {
+        "spm_b": "cms_17131"
+      },
+      "sections": [
+        {
+          "view_type": "homev4_gallery",
+          "stat": "homev4_gallery",
+          "block_id": "3691379",
+          "body": {
+            "items": [
+              {
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/77301bd229c6c0447c88b1c96813cf92.png?w=1008&h=420&bg=0",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_gallery011002#t=normal&act=webview&page=homev4&page_id=17131&bid=3691379.1&bpm=15.279.3691379.1&cdm=29320.0.0.0",
+                  "type": "url",
+                  "path": "/pages/channel/index?page_type=activity&page_title=小米网暑期大促&page_id=20821&sign=855b105a38735680196cb1d43bb4925a",
+                  "url": "",
+                  "uri": "/pages/channel/index?page_type=activity&page_title=小米网暑期大促&page_id=20821&sign=855b105a38735680196cb1d43bb4925a",
+                  "extra": "",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691379.1",
+                    "spm_params": "{\"component\":\"homev4_gallery\",\"component_name\":\"\\u9996\\u98754.0 \\u7126\\u70b9\\u56fe\\u914d\\u7f6e\"}",
+                    "scm": "cms.0.0.0.img.548251.0.0"
+                  }
+                },
+                "type": "image",
+                "bg_color": "#ff5d00",
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5402fc1fb7b0a724cbf916d0ead1fd8f.jpg?w=1008&h=420&bg=FFFFFF",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_gallery011002#t=normal&act=product&page=homev4&pid=%2Fpages%2Fproduct%2Findex%3FgoodsId%3D%26default_line%3D%26id%3D10000296&page_id=17131&bid=3691379.2&bpm=15.279.3691379.2&cdm=29359.0.0.0",
+                  "type": "product",
+                  "path": "/pages/product/index?goodsId=&default_line=&id=10000296",
+                  "url": "",
+                  "uri": "/pages/product/index",
+                  "extra": "{\"goodsId\":\"\",\"default_line\":\"\",\"id\":\"10000296\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691379.2",
+                    "spm_params": "{\"component\":\"homev4_gallery\",\"component_name\":\"\\u9996\\u98754.0 \\u7126\\u70b9\\u56fe\\u914d\\u7f6e\",\"default_goods\":\"\"}",
+                    "scm": "cms.0.0.0.product.10000296.0.0"
+                  }
+                },
+                "type": "image",
+                "bg_color": "#ff5d00",
+                "ad_level_id": 0,
+                "lottery_type": 0
+              }
+            ],
+            "bg_color": "#f6f6f6",
+            "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/016f8d2d805f0b66560270c23fd1428f.png?w=1080&h=450&bg=FF4C00",
+            "w": 1080,
+            "h": 450,
+            "activity_on": 1,
+            "lottery_type": 0
+          },
+          "spm_c": "3691379",
+          "spm_stat": {
+            "spm_code": "cms_17131.3691379",
+            "spm_params": "{\"component\":\"homev4_gallery\",\"component_name\":\"\\u9996\\u98754.0 \\u7126\\u70b9\\u56fe\\u914d\\u7f6e\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u9996\\u98754.0 \\u7126\\u70b9\\u56fe\\u914d\\u7f6e"
+        },
+        {
+          "view_type": "cells_auto_fill",
+          "stat": "homev4_official",
+          "block_id": "3737659",
+          "body": {
+            "items": [
+              {
+                "w": 1080,
+                "h": 96,
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f032d4de8b564494b98f230440b8c54.png",
+                "img_url_color": "#7FFFFF",
+                "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3f032d4de8b564494b98f230440b8c54.png?f=webp",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4cells_auto_fill001003#t=normal&act=other&page=homev4&page_id=17131&bid=3737659.1&bpm=15.279.3737659.1",
+                  "type": "none",
+                  "path": "",
+                  "url": "",
+                  "extra": "",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3737659.1",
+                    "spm_params": "{\"component\":\"cells_auto_fill\",\"component_name\":\"\\u9996\\u98754.0 \\u5b98\\u65b9\\u6e20\\u9053\\u8bf4\\u660e\"}",
+                    "scm": "cms.0.0.0.img.516282.0.0"
+                  }
+                },
+                "path_type": "image",
+                "ad_level_id": 0,
+                "lottery_type": 0
+              }
+            ],
+            "bg_color": "#f6f6f6",
+            "w": 1080,
+            "h": 96,
+            "recommend_flag": "0",
+            "lottery_type": 0
+          },
+          "spm_c": "3737659",
+          "spm_stat": {
+            "spm_code": "cms_17131.3737659",
+            "spm_params": "{\"component\":\"cells_auto_fill\",\"component_name\":\"\\u9996\\u98754.0 \\u5b98\\u65b9\\u6e20\\u9053\\u8bf4\\u660e\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u9996\\u98754.0 \\u5b98\\u65b9\\u6e20\\u9053\\u8bf4\\u660e"
+        },
+        {
+          "view_type": "homev4_box",
+          "stat": "homev4_box",
+          "block_id": "3691383",
+          "body": {
+            "group_id": "1",
+            "items": [
+              {
+                "title": "小米上新",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f6bfe3e9a4e29edd801ab508accb39c1.jpg?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=webview&page=homev4&page_id=17131&bid=3691383.1&bpm=15.279.3691383.1&cdm=26599.0.0.0",
+                  "type": "url",
+                  "path": "pages/channel/index?page_type=new_product&page_id=product_channel_page",
+                  "url": "",
+                  "uri": "pages/channel/index?page_type=new_product&page_id=product_channel_page",
+                  "extra": "",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.1",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.img.477038.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "手机",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/06db73b567688065991714e5fbc22f41.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.2&bpm=15.279.3691383.2&cdm=26842.0.0.0",
+                  "type": "first_channel",
+                  "path": "pages/channelPlus/index?page_id=14501",
+                  "url": "",
+                  "uri": "pages/channelPlus/index",
+                  "extra": "{\"page_id\":\"14501\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.2",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.14501.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "手机新品",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/639e3d0d62675107a2d478db769612d3.gif",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.3&bpm=15.279.3691383.3&cdm=28945.0.0.0",
+                  "type": "activity",
+                  "path": "/pages/channel/index?page_type=activity&page_title=旗舰芯 小金刚&page_id=20396&sign=e3e8ddfcbe7a732cc8ef0cbfd19782dc",
+                  "url": "",
+                  "uri": "/pages/channel/index?page_type=activity",
+                  "extra": "{\"page_title\":\"\\u65d7\\u8230\\u82af \\u5c0f\\u91d1\\u521a\",\"page_id\":\"20396\",\"sign\":\"e3e8ddfcbe7a732cc8ef0cbfd19782dc\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.3",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\",\"title\":\"\\u65d7\\u8230\\u82af \\u5c0f\\u91d1\\u521a\"}",
+                    "scm": "cms.0.0.0.page.20396.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "影像新物种",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23522fe28b1ee2d3b76e97aeaf49d05b.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.4&bpm=15.279.3691383.4&cdm=28466.0.0.0",
+                  "type": "activity",
+                  "path": "/pages/channel/index?page_type=activity&page_title=冲破夜幕，绽灵感花火&page_id=20406&sign=017ea55a7500f67470a07080cc28e0c7",
+                  "url": "",
+                  "uri": "/pages/channel/index?page_type=activity",
+                  "extra": "{\"page_title\":\"\\u51b2\\u7834\\u591c\\u5e55\\uff0c\\u7efd\\u7075\\u611f\\u82b1\\u706b\",\"page_id\":\"20406\",\"sign\":\"017ea55a7500f67470a07080cc28e0c7\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.4",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\",\"title\":\"\\u51b2\\u7834\\u591c\\u5e55\\uff0c\\u7efd\\u7075\\u611f\\u82b1\\u706b\"}",
+                    "scm": "cms.0.0.0.page.20406.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "家电",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f5263a447d6a9151e0153277a1e67a26.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.5&bpm=15.279.3691383.5&cdm=24949.0.0.0",
+                  "type": "first_channel",
+                  "path": "pages/channelPlus/index?page_id=13365",
+                  "url": "",
+                  "uri": "pages/channelPlus/index",
+                  "extra": "{\"page_id\":\"13365\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.5",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.13365.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "小米秒杀",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/402ef44561e56e6385ecab958198d8f2.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.6&bpm=15.279.3691383.6&cdm=24886.0.0.0",
+                  "type": "seckill",
+                  "path": "/pages/flashSales/index",
+                  "url": "",
+                  "uri": "/pages/flashSales/index",
+                  "extra": "",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.6",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.seckill.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "小米众筹",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/857f713dbacf795eea37538a7a745d9b.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.7&bpm=15.279.3691383.7&cdm=28708.0.0.0",
+                  "type": "activity",
+                  "path": "/pages/channel/index?page_type=activity&page_title=众筹好物钜惠&page_id=19983&sign=",
+                  "url": "",
+                  "uri": "/pages/channel/index?page_type=activity",
+                  "extra": "{\"page_title\":\"\\u4f17\\u7b79\\u597d\\u7269\\u949c\\u60e0\",\"page_id\":\"19983\",\"sign\":\"\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.7",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\",\"title\":\"\\u4f17\\u7b79\\u597d\\u7269\\u949c\\u60e0\"}",
+                    "scm": "cms.0.0.0.page.19983.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "电视",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8abb30cca04eda4b99a546ac39bfcc40.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.8&bpm=15.279.3691383.8&cdm=27290.0.0.0",
+                  "type": "first_channel",
+                  "path": "pages/channelPlus/index?page_id=13249",
+                  "url": "",
+                  "uri": "pages/channelPlus/index",
+                  "extra": "{\"page_id\":\"13249\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.8",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.13249.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "笔记本",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/774e23210a5f4cb5b3b66d52ea73c0b0.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.9&bpm=15.279.3691383.9&cdm=27291.0.0.0",
+                  "type": "first_channel",
+                  "path": "pages/channelPlus/index?page_type=first_channel&page_id=13326",
+                  "url": "",
+                  "uri": "pages/channelPlus/index?page_type=first_channel",
+                  "extra": "{\"page_id\":\"13326\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.9",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.13326.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              },
+              {
+                "title": "智能",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ffb682c068740276a5f227311aa554df.png?w=130&h=130&bg=7F0000",
+                "action": {
+                  "login": false,
+                  "log_code": "31cxhomev4homev4_box010004#t=normal&act=other&page=homev4&page_id=17131&bid=3691383.10&bpm=15.279.3691383.10&cdm=25812.0.0.0",
+                  "type": "first_channel",
+                  "path": "pages/channelPlus/index?page_id=14709",
+                  "url": "",
+                  "uri": "pages/channelPlus/index",
+                  "extra": "{\"page_id\":\"14709\"}",
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3691383.10",
+                    "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+                    "scm": "cms.0.0.0.page.14709.0.0"
+                  }
+                },
+                "ad_level_id": 0,
+                "lottery_type": 0
+              }
+            ],
+            "bg_color": "#f6f6f6",
+            "w": 1080,
+            "h": 540,
+            "row_span": "2",
+            "smart_classify_on": "0",
+            "lottery_type": 0
+          },
+          "spm_c": "3691383",
+          "spm_stat": {
+            "spm_code": "cms_17131.3691383",
+            "spm_params": "{\"component\":\"homev4_box\",\"component_name\":\"\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u9996\\u98754.0 \\u767e\\u5b9d\\u7bb1"
+        },
+        {
+          "view_type": "divider_line",
+          "stat": "divider_line",
+          "block_id": "3740534",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "lottery_type": 0
+          },
+          "spm_c": "3740534",
+          "spm_stat": {
+            "spm_code": "cms_17131.3740534",
+            "spm_params": "{\"component\":\"divider_line\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24"
+        },
+        {
+          "view_type": "divider_line",
+          "stat": "divider_line",
+          "block_id": "3740537",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "lottery_type": 0
+          },
+          "spm_c": "3740537",
+          "spm_stat": {
+            "spm_code": "cms_17131.3740537",
+            "spm_params": "{\"component\":\"divider_line\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24"
+        },
+        {
+          "view_type": "homev4_channel_rank",
+          "stat": "homev4_channel_rank",
+          "block_id": "3732064",
+          "body": {
+            "bg_color": "#ffffff",
+            "text_color": "#FE6365",
+            "action": {
+              "login": false,
+              "log_code": "31cxhomev4homev4_channel_rank000000#t=normal&act=other&page=homev4&page_id=17131&bid=3732064.1&bpm=15.279.3732064.1",
+              "type": "url",
+              "path": "pages/miTop/index",
+              "url": "",
+              "extra": "[]",
+              "spm_stat": {
+                "spm_code": "cms_17131.3732064.1",
+                "spm_params": "{\"component\":\"homev4_channel_rank\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u6392\\u884c\\u5165\\u53e3\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              }
+            },
+            "title": "爆款排行",
+            "sub_title": "超多人想要",
+            "more_name": "更多爆款",
+            "is_show_more": true,
+            "product_list": [
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732064.1",
+                  "type": "path",
+                  "path": "pages/product/index?id=12434",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732064.10001",
+                    "scm": "innov.0.0.1.product.12434.0.0"
+                  }
+                },
+                "product_id": "12434",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b48160e1c150044808c9c8787c140750.jpg",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "日常元素抽纸",
+                "product_brief": "精选原生竹浆，健康环保",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "25.9",
+                "product_org_price": "32.9",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732064.2",
+                  "type": "path",
+                  "path": "pages/product/index?id=13797",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732064.10002",
+                    "scm": "innov.0.0.1.product.13797.0.0"
+                  }
+                },
+                "product_id": "13797",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/40401586bd3eb9ed3feeddd76c0cf15a.jpg",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "小米67W充电器套装",
+                "product_brief": "小米67W充电器套装",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "129",
+                "product_org_price": "129",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732064.3",
+                  "type": "path",
+                  "path": "pages/product/index?id=11674",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732064.10003",
+                    "scm": "innov.0.0.1.product.11674.0.0"
+                  }
+                },
+                "product_id": "11674",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/18ed368638a1d75431e36be0bf6d04f4.jpg",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "小米小背包",
+                "product_brief": "城市休闲，简约设计",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "29",
+                "product_org_price": "29",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              }
+            ],
+            "lottery_type": 0
+          },
+          "location": {},
+          "spm_c": "3732064",
+          "spm_stat": {
+            "spm_code": "cms_17131.3732064",
+            "spm_params": "{\"component\":\"homev4_channel_rank\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u6392\\u884c\\u5165\\u53e3\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u6392\\u884c\\u5165\\u53e3"
+        },
+        {
+          "view_type": "divider_line",
+          "stat": "divider_line",
+          "block_id": "3738264",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "lottery_type": 0
+          },
+          "spm_c": "3738264",
+          "spm_stat": {
+            "spm_code": "cms_17131.3738264",
+            "spm_params": "{\"component\":\"divider_line\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24"
+        },
+        {
+          "view_type": "homev4_channel_new_product",
+          "stat": "homev4_channel_new_product",
+          "block_id": "3732068",
+          "body": {
+            "bg_color": "#ffffff",
+            "text_color": "#FAA60F",
+            "action": {
+              "login": false,
+              "log_code": "31cxhomev4homev4_channel_new_product000000#t=normal&act=other&page=homev4&page_id=17131&bid=3732068.1&bpm=15.279.3732068.1",
+              "type": "url",
+              "path": "pages/channel/index?page_type=new_product&page_id=product_channel_page",
+              "url": "",
+              "extra": "[]",
+              "spm_stat": {
+                "spm_code": "cms_17131.3732068.1",
+                "spm_params": "{\"component\":\"homev4_channel_new_product\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u65b0\\u54c1\\u5165\\u53e3\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              }
+            },
+            "title": "新品好物",
+            "sub_title": "种草达人推荐",
+            "more_name": "更多新品",
+            "is_show_more": true,
+            "product_list": [
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.2",
+                  "type": "path",
+                  "path": "pages/product/index?id=14337",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10001",
+                    "scm": "innov.0.0.1.product.14337.0.0"
+                  }
+                },
+                "product_id": "14337",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c6a8875a2ae8ba34b1a626e2a6839792.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "生生不息定制T恤",
+                "product_brief": "生生不息定制T恤",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "99",
+                "product_org_price": "99",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.3",
+                  "type": "path",
+                  "path": "pages/product/index?id=14206",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10002",
+                    "scm": "innov.0.0.1.product.14206.0.0"
+                  }
+                },
+                "product_id": "14206",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dd0773e5d1c0f73de5b4548f1f5abc63.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "Redmi Note 10 Pro",
+                "product_brief": "第十代小金刚 十全十美",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "1699",
+                "product_org_price": "1699",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.4",
+                  "type": "path",
+                  "path": "pages/product/index?id=14031",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10003",
+                    "scm": "innov.0.0.1.product.14031.0.0"
+                  }
+                },
+                "product_id": "14031",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a65c16175d0a7754c9eb8a54e09b6754.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "Redmi K40 游戏增强版",
+                "product_brief": "轻薄得不像「硬核游戏手机」",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "1999",
+                "product_org_price": "1999",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.5",
+                  "type": "path",
+                  "path": "pages/product/index?id=14087",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10004",
+                    "scm": "innov.0.0.1.product.14087.0.0"
+                  }
+                },
+                "product_id": "14087",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/2c25ed88ee2a8524fa8461c27c3d407a.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "小米智能摄像机 标准版2K",
+                "product_brief": "小米智能摄像机 标准版2K",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "119",
+                "product_org_price": "129",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.6",
+                  "type": "path",
+                  "path": "pages/product/index?id=14165",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10005",
+                    "scm": "innov.0.0.1.product.14165.0.0"
+                  }
+                },
+                "product_id": "14165",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/49399beb787ea5398b38cef1d7610307.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "米家智能驱蚊器2",
+                "product_brief": "米家智能驱蚊器2",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "59",
+                "product_org_price": "69",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              },
+              {
+                "action": {
+                  "login": false,
+                  "log_code": "bpm=15.279.3732068.7",
+                  "type": "path",
+                  "path": "pages/product/index?id=13443",
+                  "url": "",
+                  "extra": null,
+                  "spm_stat": {
+                    "spm_code": "cms_17131.3732068.10006",
+                    "scm": "innov.0.0.1.product.13443.0.0"
+                  }
+                },
+                "product_id": "13443",
+                "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/54fa4b785a85392d6f9be7dc349ba4ca.png?w=800&h=800",
+                "small_img_url": "",
+                "img_url_webp": "",
+                "img_url_color": "",
+                "product_name": "小米米家屏显开关（三开单控）",
+                "product_brief": "小米米家屏显开关（三开单控）",
+                "product_tag": "",
+                "product_tag_webp": "",
+                "product_price": "119",
+                "product_org_price": "129",
+                "show_price_qi": false,
+                "button_text": "",
+                "button_type": "",
+                "big_img_url": "",
+                "back_img_url": "",
+                "status": 0
+              }
+            ],
+            "lottery_type": 0
+          },
+          "location": {},
+          "human_group": {},
+          "spm_c": "3732068",
+          "spm_stat": {
+            "spm_code": "cms_17131.3732068",
+            "spm_params": "{\"component\":\"homev4_channel_new_product\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u65b0\\u54c1\\u5165\\u53e3\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u65b0\\u54c1\\u5165\\u53e3"
+        },
+        {
+          "view_type": "divider_line",
+          "stat": "divider_line",
+          "block_id": "3739134",
+          "body": {
+            "line_color": "#f5f5f5",
+            "line_height": "24",
+            "lottery_type": 0
+          },
+          "spm_c": "3739134",
+          "spm_stat": {
+            "spm_code": "cms_17131.3739134",
+            "spm_params": "{\"component\":\"divider_line\",\"component_name\":\"\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24\"}",
+            "scm": "cms.0.0.0.0.0.0.0"
+          },
+          "components_name": "\\u3010\\u901a\\u7528\\u3011\\u5206\\u9694\\u7ebf - 24"
+        }
+      ],
+      "group_floor": [],
+      "special_jump2": {
+        "block_id": "3691409",
+        "body": {
+          "action": {
+            "extra": "[]",
+            "log_code": "31cxhomev4special_jump2000000#t=normal&act=other&page=homev4&page_id=17131&bid=3691409.1&bpm=15.279.3691409.1",
+            "login": false,
+            "path": "",
+            "spm_stat": {
+              "scm": "cms.0.0.0.0.0.0.0",
+              "spm_code": "cms_17131.3691409.1",
+              "spm_params": "{\"component\":\"special_jump2\",\"component_name\":\"\\u9996\\u98754.0\\u3010\\u5bfc\\u822a\\u3011\\u6d6e\\u5e95 - 168*168\",\"block_name\":\"\"}"
+            },
+            "type": "none"
+          },
+          "ad_id": "3393",
+          "img_url": ""
+        },
+        "components_name": "\\u9996\\u98754.0\\u3010\\u5bfc\\u822a\\u3011\\u6d6e\\u5e95 - 168*168",
+        "spm_c": "3691409",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17131.3691409",
+          "spm_params": "{\"component\":\"special_jump2\",\"component_name\":\"\\u9996\\u98754.0\\u3010\\u5bfc\\u822a\\u3011\\u6d6e\\u5e95 - 168*168\",\"block_name\":\"\"}"
+        },
+        "stat": "special_jump2",
+        "view_type": "special_jump2"
+      },
+      "homev4_tab_channel": {
+        "view_type": "homev4_tab_channel",
+        "stat": "homev4_tab_channel",
+        "block_id": "3737668",
+        "body": {
+          "items": [
+            {
+              "title": "精选",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691388.0&bpm=15.279.3691388.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691388.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "elect",
+              "id": "1",
+              "block_id": "3691388",
+              "subtitle": "为你推荐",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            },
+            {
+              "title": "手机",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691389.0&bpm=15.279.3691389.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691389.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "classification",
+              "id": "2",
+              "block_id": "3691389",
+              "subtitle": "探索黑科技",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            },
+            {
+              "title": "家电",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691390.0&bpm=15.279.3691390.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691390.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "classification",
+              "id": "3",
+              "block_id": "3691390",
+              "subtitle": "数码电器",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            },
+            {
+              "title": "特惠",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691391.0&bpm=15.279.3691391.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691391.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "classification",
+              "id": "34",
+              "block_id": "3691391",
+              "subtitle": "多买多省",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            },
+            {
+              "title": "智能",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691392.0&bpm=15.279.3691392.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691392.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "classification",
+              "id": "4",
+              "block_id": "3691392",
+              "subtitle": "AI家居",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            },
+            {
+              "title": "生活",
+              "log_code": "31cxhomev4homev4_tab_channel006042#t=normal&act=other&page=homev4&page_id=17131&bid=3691393.0&bpm=15.279.3691393.0",
+              "spm_stat": {
+                "spm_code": "cms_17131.3691393.0",
+                "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+                "scm": "cms.0.0.0.0.0.0.0"
+              },
+              "type": "classification",
+              "id": "5",
+              "block_id": "3691393",
+              "subtitle": "居家必备",
+              "ad_level_id": 0,
+              "lottery_type": 0
+            }
+          ],
+          "selected_text_color": "#FF5934",
+          "color": "#333333",
+          "lottery_type": 0
+        },
+        "spm_c": "3737668",
+        "spm_stat": {
+          "spm_code": "cms_17131.3737668",
+          "spm_params": "{\"component\":\"homev4_tab_channel\",\"component_name\":\"\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e\",\"block_name\":\"\"}",
+          "scm": "cms.0.0.0.0.0.0.0"
+        },
+        "components_name": "\\u4fe1\\u606f\\u6d41\\u63a8\\u8350TAB\\u914d\\u7f6e"
+      },
+      "homev4_global_config": {
+        "view_type": "homev4_global_config",
+        "stat": "homev4_global_config",
+        "block_id": "3691377",
+        "body": {
+          "bg_color": "#ff5700",
+          "left_bar_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6c328577cb23e7aac0b2eeabd7acfbe4.png",
+          "left_bar_action": {
+            "login": false,
+            "log_code": "31cxhomev4homev4_global_config000001#t=normal&act=other&page=homev4&page_id=17131&bid=3691377.1&bpm=15.279.3691377.1",
+            "type": "none",
+            "path": "",
+            "url": "",
+            "extra": "[]",
+            "spm_stat": {
+              "spm_code": "cms_17131.3691377.1",
+              "spm_params": "{\"component\":\"homev4_global_config\",\"component_name\":\"\\u5bfc\\u822a\\u533a\\u914d\\u7f6e\",\"block_name\":\"\"}",
+              "scm": "cms.0.0.0.0.0.0.0"
+            }
+          },
+          "lottery_type": 0
+        },
+        "spm_c": "3691377",
+        "spm_stat": {
+          "spm_code": "cms_17131.3691377",
+          "spm_params": "{\"component\":\"homev4_global_config\",\"component_name\":\"\\u5bfc\\u822a\\u533a\\u914d\\u7f6e\",\"block_name\":\"\"}",
+          "scm": "cms.0.0.0.0.0.0.0"
+        },
+        "components_name": "\\u5bfc\\u822a\\u533a\\u914d\\u7f6e"
+      }
+    },
+    "login_status": -1
+  },
+  "error": "success",
+  "code": 0
+}

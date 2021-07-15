@@ -1,0 +1,364 @@
+{
+	"data": {
+		"is_end": false,
+		"sections": [
+			{
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cea1ff3517387569b7f59fc2b7d01d30.png?w=800\u0026h=800",
+					"product_name": "小米11 Ultra，开启影像新时代",
+					"product_price": "5499",
+					"product_org_price": "5999",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1001\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.13649\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=13649",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10001",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.13649.0.0"
+						}
+					},
+					"show_price_qi": true,
+					"type": "1",
+					"id": "13649",
+					"subtitle": "上新",
+					"label_title": "CPU型号 高通骁龙888",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/3eff7dc0127061c13b9cc57d2bf112a1.png?w=800\u0026h=800",
+					"product_name": "高强度纤维编织线体，一体化接口设计",
+					"product_price": "19.9",
+					"product_org_price": "19.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1002\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.7714\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=7714",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10002",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.7714.0.0"
+						}
+					},
+					"type": "1",
+					"id": "7714",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/74f15a7f5fe1f248b1553a1bd674480c.png?w=800\u0026h=800",
+					"product_name": "小米无线键鼠套装",
+					"product_price": "89",
+					"product_org_price": "99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1003\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.11418\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11418",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10003",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.11418.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11418",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/456eabb800ebfd5a1d22795dbb563d53.png?w=800\u0026h=800",
+					"product_name": "Redmi小爱触屏音箱 8英寸",
+					"product_price": "349",
+					"product_org_price": "349",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1004\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.11810\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11810",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10004",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.11810.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11810",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/85ec39acd816aeb7a0811f6f4bcb2d66.png?w=800\u0026h=800",
+					"product_name": "米家负离子便携吹风机H100",
+					"product_price": "99",
+					"product_org_price": "99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1005\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.10671\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=10671",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10005",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.10671.0.0"
+						}
+					},
+					"type": "1",
+					"id": "10671",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9cdc50aa1318b1a9df4905133b3552b8.png?w=800\u0026h=800",
+					"product_name": "米家超级电池4粒装",
+					"product_price": "19.9",
+					"product_org_price": "19.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1006\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.12064\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=12064",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10006",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.12064.0.0"
+						}
+					},
+					"type": "1",
+					"id": "12064",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e6408cf86fbcc9f222c24035fe6a667.png?w=800\u0026h=800",
+					"product_name": "米兔智能故事机 ",
+					"product_price": "169",
+					"product_org_price": "199",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1007\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.3807\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=3807",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10007",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.3807.0.0"
+						}
+					},
+					"type": "1",
+					"id": "3807",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/d15b7dc7adbf00177677b22166e66a55.png?w=800\u0026h=800",
+					"product_name": "米家石英表",
+					"product_price": "299",
+					"product_org_price": "349",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1008\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.8625\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=8625",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10008",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.8625.0.0"
+						}
+					},
+					"type": "1",
+					"id": "8625",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a51bf24f69ef860903ca3c76e9ba145f.png?w=800\u0026h=800",
+					"product_name": "小米水浸卫士",
+					"product_price": "59",
+					"product_org_price": "59",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1009\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.13014\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=13014",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10009",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.13014.0.0"
+						}
+					},
+					"type": "1",
+					"id": "13014",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c24e68e5ad49041d4afff5233cd4ca1f.png?w=800\u0026h=800",
+					"product_name": "骁龙888 | 120W极速闪充",
+					"product_price": "3999",
+					"product_org_price": "3999",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1010\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.13812\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=13812",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10010",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.13812.0.0"
+						}
+					},
+					"show_price_qi": true,
+					"type": "1",
+					"id": "13812",
+					"subtitle": "上新",
+					"label_title": "CPU型号 骁龙888",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/15b42e7965e8c686b06095c88fd1e4cf.png?w=800\u0026h=800",
+					"product_name": "米家水离子护发吹风机 H500",
+					"product_price": "249",
+					"product_org_price": "249",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1011\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.14176\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=14176",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10011",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.14176.0.0"
+						}
+					},
+					"type": "1",
+					"id": "14176",
+					"subtitle": "上新",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b344bde7f2a5b206e08e7d3b6f8e2ae0.png?w=800\u0026h=800",
+					"product_name": "米家智能加湿器",
+					"product_price": "169",
+					"product_org_price": "199",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691388.1012\u0026cdm=0.1.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.0\u0026next=6.64.2.12715\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=12715",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10012",
+							"scm": "innov.0.MjAwMS1rY1JlYy1NaXhQcm9kdWN0LXhpYW9taV9ob21lX3dhdGVyZmFsbC1leHBJZF8xMDk5MDUtZXhwSWRfMTIzNTkyLWV4cElkXzEyMzI2Mi1leHBJZF8xMjIxNTgtZXhwSWRfMTIzNjY4LWV4cElkXzEwNzM1Ni1leHBJZF8xMjIwMTYtZXhwSWRfMTIxNTE2LWV4cElkXzEyMTYyOS1leHBJZF8xMTg3NTctZXhwSWRfMTA2MDkwLWV4cElkXzEyMTcxOC1leHBJZF8xMjEzOTEtZXhwSWRfODk4ODEtZXhwSWRfMTIzNDkwLWV4cElkXzEwMDAtdHJhY2VJZF9jNzEyNmJjZDQ1MzA0ODRmOWIzMjg2YzJhNTcyNjQ4MQ==.1.product.12715.0.0"
+						}
+					},
+					"type": "1",
+					"id": "12715",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}]
+	},
+	"error": "success",
+	"code": 0
+}

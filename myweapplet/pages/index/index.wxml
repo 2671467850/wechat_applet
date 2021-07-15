@@ -1,0 +1,9 @@
+<view class="index-main">
+<view class="top">
+  <search></search>
+  <view class="to-message">
+    <image src="/img/mes-icon.png"></image>
+  </view>
+</view>
+<swiper></swiper>
+</view>

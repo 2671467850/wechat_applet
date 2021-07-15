@@ -1,0 +1,594 @@
+{
+	"data": {
+		"is_end": false,
+		"sections": [{
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/730055892c1afa7b6d8128c0938b5277.png?w=800\u0026h=800",
+					"product_name": "日常元素抽纸 青春版 24包/箱",
+					"product_price": "25.9",
+					"product_org_price": "32.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1001\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.12434\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=12434",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10001",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.12434.0.0"
+						}
+					},
+					"type": "1",
+					"id": "12434",
+					"subtitle": "秒杀",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0427027732e31f6fde945bb0f6354d19.png?w=800\u0026h=800",
+					"product_name": "米家电动牙刷头（通用型）",
+					"product_price": "9.9",
+					"product_org_price": "9.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1002\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11217\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11217",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10002",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11217.0.0"
+						}
+					},
+					"show_price_qi": true,
+					"type": "1",
+					"id": "11217",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a8dac68b5a93aba8ff6d0f3f41e0873c.png?w=800\u0026h=800",
+					"product_name": "贝医生防蛀健齿牙膏",
+					"product_price": "12.9",
+					"product_org_price": "12.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1003\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.9752\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=9752",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10003",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.9752.0.0"
+						}
+					},
+					"type": "1",
+					"id": "9752",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/685b9272a7e84a312ab83046add5b2e2.png?w=800\u0026h=800",
+					"product_name": "7号彩虹电池（10粒）",
+					"product_price": "9.9",
+					"product_org_price": "9.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1004\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.3016\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=3016",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10004",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.3016.0.0"
+						}
+					},
+					"type": "1",
+					"id": "3016",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "http://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/a169a257980534113aed9caae776725d.png?w=800\u0026h=800",
+					"product_name": "贝医生巴氏牙刷",
+					"product_price": "39.9",
+					"product_org_price": "39.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1005\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.6443\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=6443",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10005",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.6443.0.0"
+						}
+					},
+					"type": "1",
+					"id": "6443",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d5f62959f1bc82849a306041a3d4711d.png?w=800\u0026h=800",
+					"product_name": "simpleway居家香氛",
+					"product_price": "29.9",
+					"product_org_price": "29.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1006\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11532\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11532",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10006",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11532.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11532",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4836c34aa6100d0d4cf33e00d092c802.png?w=800\u0026h=800",
+					"product_name": "声波电动牙刷头（敏感型）3支装",
+					"product_price": "69",
+					"product_org_price": "69",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1007\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.10584\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=10584",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10007",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.10584.0.0"
+						}
+					},
+					"type": "1",
+					"id": "10584",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6252f1332861e5c271da84affd0d3372.png?w=800\u0026h=800",
+					"product_name": "米家防飞溅指甲刀",
+					"product_price": "9.9",
+					"product_org_price": "9.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1008\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11199\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11199",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10008",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11199.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11199",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cb92ee260f1acae1f92e8f130423471a.png?w=800\u0026h=800",
+					"product_name": "小米巨能写中性笔10支装",
+					"product_price": "9.99",
+					"product_org_price": "9.99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1009\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.9836\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=9836",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10009",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.9836.0.0"
+						}
+					},
+					"type": "1",
+					"id": "9836",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fec3b5c6f4377397621e2d6c51b6e455.png?w=800\u0026h=800",
+					"product_name": "米家指甲刀五件套",
+					"product_price": "39.9",
+					"product_org_price": "39.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1010\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11805\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11805",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10010",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11805.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11805",
+					"subtitle": "包邮",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ab46848405b735eb58987e8a15f5c7e5.png?w=800\u0026h=800",
+					"product_name": "米家声波电动牙刷头（通用型）",
+					"product_price": "29",
+					"product_org_price": "29",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1011\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11216\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11216",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10011",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11216.0.0"
+						}
+					},
+					"show_price_qi": true,
+					"type": "1",
+					"id": "11216",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8520387c56ef4e88c89e1aeb73cb31bb.png?w=800\u0026h=800",
+					"product_name": "5号彩虹电池（10粒）",
+					"product_price": "9.9",
+					"product_org_price": "9.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1012\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.2804\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=2804",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10012",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.2804.0.0"
+						}
+					},
+					"type": "1",
+					"id": "2804",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9b2f263e1fedc58fb3d1813dbcabc520.png?w=800\u0026h=800",
+					"product_name": "米家电动剃须刀S500",
+					"product_price": "179",
+					"product_org_price": "199",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1013\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11191\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11191",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10013",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11191.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11191",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef7b6af7926b7b44da1343e144a8f801.png?w=800\u0026h=800",
+					"product_name": "米家护颈记忆绵枕",
+					"product_price": "79",
+					"product_org_price": "99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1014\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.9884\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=9884",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10014",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.9884.0.0"
+						}
+					},
+					"type": "1",
+					"id": "9884",
+					"subtitle": "秒杀",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9d5dde0ef81b0580f35a598e6a7e0f12.png?w=800\u0026h=800",
+					"product_name": "小米体脂秤2",
+					"product_price": "99",
+					"product_org_price": "99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1015\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.9686\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=9686",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10015",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.9686.0.0"
+						}
+					},
+					"type": "1",
+					"id": "9686",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/e6479a0e53924ce02fd1e635f380a889.png?w=800\u0026h=800",
+					"product_name": "日常元素 垃圾袋",
+					"product_price": "14.9",
+					"product_org_price": "14.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1016\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.12710\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=12710",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10016",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.12710.0.0"
+						}
+					},
+					"type": "1",
+					"id": "12710",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ff93bf138dc37644ab5b67be0ab91f44.png?w=800\u0026h=800",
+					"product_name": "小卫质品泡沫洗手液（三瓶装）",
+					"product_price": "39.9",
+					"product_org_price": "39.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1017\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.8882\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=8882",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10017",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.8882.0.0"
+						}
+					},
+					"type": "1",
+					"id": "8882",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/aa66056f71f8a9c25bf1aec3bb15d22d.png?w=800\u0026h=800",
+					"product_name": "日常元素 毛巾青春款",
+					"product_price": "16.9",
+					"product_org_price": "19.9",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1018\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.13376\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=13376",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10018",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.13376.0.0"
+						}
+					},
+					"type": "1",
+					"id": "13376",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/dd9d058fe0f132b0f09885c0ddc20ad1.png?w=800\u0026h=800",
+					"product_name": "米家电动剃须刀S300",
+					"product_price": "99",
+					"product_org_price": "99",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1019\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.11807\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=11807",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10019",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.11807.0.0"
+						}
+					},
+					"type": "1",
+					"id": "11807",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}, {
+			"view_type": "homev4_product_card",
+			"body": {
+				"items": [{
+					"img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/05c40e33d4224898ca1d82003f10dd1e.png?w=800\u0026h=800",
+					"product_name": "小米体重秤2",
+					"product_price": "59",
+					"product_org_price": "59",
+					"action": {
+						"login": false,
+						"log_code": "bpm=15.279.3691393.1020\u0026cdm=0.1.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.0\u0026next=6.64.2.9674\u0026uni=58.0",
+						"type": "path",
+						"path": "pages/product/index?id=9674",
+						"url": "",
+						"extra": null,
+						"spm_stat": {
+							"spm_code": "[spm_b].0.10020",
+							"scm": "innov.0.MjAwMS1rY1JlY1RhYi1uZXcyLXhpYW9taV9ob21lX3Nob3BndWlkZS1leHBJZF8xMjMyNTMtZXhwSWRfMTIxMzg3LWV4cElkXzEyMjAxNi1leHBJZF8xMjM1ODktZXhwSWRfMTA5OTEyLWV4cElkXzEyMTM0OS1leHBJZF8xMjE0NTktZXhwSWRfMTIzNTA4LWV4cElkXzEyMTUxNi1leHBJZF8xMDYwOTAtZXhwSWRfMTA3MzU1LWV4cElkXzEwMzE4Ni1leHBJZF8xMTEzMzUtZXhwSWRfODk4ODEtdHJhY2VJZF9iMTcxNGU1ZDhlNWM0ZWEwYjUyYzBjNGUwMjAyOTJkZg==.1.product.9674.0.0"
+						}
+					},
+					"type": "1",
+					"id": "9674",
+					"subtitle": "包邮",
+					"normal_title_color": "#F44A33",
+					"more_name": "看相似",
+					"ad_level_id": 0,
+					"lottery_type": 0
+				}],
+				"lottery_type": 0
+			}
+		}]
+	},
+	"error": "success",
+	"code": 0
+}

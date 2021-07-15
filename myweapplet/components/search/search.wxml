@@ -1,0 +1,4 @@
+<view class="v-input">
+  <image class="search-img" src="/img/search-icon.png"></image>
+  <input class="search-input" type="text" bindinput="handleSearchInput" placeholder="{{placeholder}}" />
+</view>

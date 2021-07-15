@@ -1,0 +1,11 @@
+{
+  "name": "weapplet",
+  "version": "1.0.0",
+  "description": "原生小程序",
+  "main": "index.js",
+  "author": "Ankang",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}

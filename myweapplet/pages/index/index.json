@@ -1,0 +1,11 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "首页",
+  "backgroundTextStyle": "light",
+  
+  "usingComponents": {
+    "search": "../../components/search/search",
+    "swiper": "../../components/swiper/swiper"
+  }
+}

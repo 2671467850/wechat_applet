@@ -1,0 +1,25 @@
+.index-main{
+  padding: 30rpx;
+  height: 1500rpx;
+  background-color: #eee;
+}
+
+.top{
+  display: flex;
+  margin-bottom: 30rpx;
+}
+
+.top search{
+  flex: 1;
+}
+
+.to-message{
+  margin-left: 50rpx;
+  width: 50rpx;
+  height: 50rpx;
+}
+
+.to-message image{
+  width: 100%;
+  height: 100%;
+}

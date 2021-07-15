@@ -1,0 +1,17 @@
+<view class="swiper-main">
+  <swiper
+    class="swiper"
+    indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}"
+    interval="{{interval}}"
+    duration="{{duration}}"
+  >
+    <swiper-item
+      class="swiper-item"
+      wx:for="{{data}}"
+      wx:key="index"
+    >
+      <image class="swiper-img" src="{{item}}"></image>
+    </swiper-item>
+  </swiper>
+</view>

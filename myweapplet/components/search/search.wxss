@@ -1,0 +1,19 @@
+.v-input{
+  display: flex;
+  border: 1rpx solid #999;
+  height: 50rpx;
+  border-radius: 25rpx;
+  align-items: center;
+  padding-left: 15rpx;
+}
+
+.search-img{
+  width: 35rpx;
+  height: 35rpx;
+}
+
+.search-input{
+  margin-left: 20rpx;
+  height: 50rpx;
+  font-size: 25rpx;
+}

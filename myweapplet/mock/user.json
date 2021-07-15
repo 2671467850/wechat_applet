@@ -1,0 +1,732 @@
+{
+  "data": {
+    "infos": {
+      "newuser_tip_img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/66d60d720691922112d603190cdcc51e.png"
+    },
+    "sections": [
+      {
+        "block_id": "3738600",
+        "body": {
+          "items": [
+            {
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7082168f2389318ea229e6a7d7ea3b96.png?w=1080&h=828&bg=FC5916",
+              "img_url_color": "#FC5916",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7082168f2389318ea229e6a7d7ea3b96.png?f=webp&w=1080&h=828&bg=FC5916",
+              "lottery_type": 0,
+              "type": "normal"
+            }
+          ],
+          "lottery_type": 0
+        },
+        "components_name": "\\u9876\\u90e8\\u80cc\\u666f\\u56fe",
+        "spm_c": "3738600",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738600",
+          "spm_params": "{\"component\":\"personalv2_top_backgroup\",\"component_name\":\"\\u9876\\u90e8\\u80cc\\u666f\\u56fe\"}"
+        },
+        "stat": "personalv2_top_backgroup",
+        "view_type": "personalv2_top_backgroup"
+      },
+      {
+        "block_id": "3738629",
+        "body": {
+          "items": [
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734099.748",
+                "login": true,
+                "path": "/pages/coupon/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.390358.0.0",
+                  "spm_code": "cms_17153.3734099.748",
+                  "spm_params": "{\"component\":\"personalv2_user_assets\",\"component_name\":\"\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d\"}"
+                },
+                "type": "couponindex",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8b6342eaac77959082112e9b9d163ea.png?w=72&h=72&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f8b6342eaac77959082112e9b9d163ea.png?f=webp&w=72&h=72&bg=7F0000",
+              "lottery_type": 0,
+              "title": "优惠券",
+              "type": "coupon"
+            },
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734099.749",
+                "login": true,
+                "path": "/pages/myRedPacket/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.390360.0.0",
+                  "spm_code": "cms_17153.3734099.749",
+                  "spm_params": "{\"component\":\"personalv2_user_assets\",\"component_name\":\"\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/424fd9bfcec7ff20fb70eb379c8f5764.png?w=72&h=72&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/424fd9bfcec7ff20fb70eb379c8f5764.png?f=webp&w=72&h=72&bg=7F0000",
+              "lottery_type": 0,
+              "title": "红包",
+              "type": "redpacket"
+            },
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734099.750",
+                "login": false,
+                "path": "pages/miVip/vipShop/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.390374.0.0",
+                  "spm_code": "cms_17153.3734099.750",
+                  "spm_params": "{\"component\":\"personalv2_user_assets\",\"component_name\":\"\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6163b93b0a487834611b2c2d393e8b2d.png?w=72&h=72&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/6163b93b0a487834611b2c2d393e8b2d.png?f=webp&w=72&h=72&bg=7F0000",
+              "lottery_type": 0,
+              "title": "米金",
+              "type": "integral"
+            },
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734099.751",
+                "login": true,
+                "path": "/pages/fcode/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413081.0.0",
+                  "spm_code": "cms_17153.3734099.751",
+                  "spm_params": "{\"component\":\"personalv2_user_assets\",\"component_name\":\"\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8ea71f92cffda9f05abb0f40c1ee74cb.png?w=72&h=72&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8ea71f92cffda9f05abb0f40c1ee74cb.png?f=webp&w=72&h=72&bg=7F0000",
+              "lottery_type": 0,
+              "title": "F码",
+              "type": "fcode"
+            }
+          ],
+          "lottery_type": 0
+        },
+        "components_name": "\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d",
+        "spm_c": "3738629",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738629",
+          "spm_params": "{\"component\":\"personalv2_user_assets\",\"component_name\":\"\\u7528\\u6237\\u8d44\\u4ea7\\u680f\\u4f4d\"}"
+        },
+        "stat": "personalv2_user_assets",
+        "view_type": "personalv2_user_assets"
+      },
+      {
+        "block_id": "3818998",
+        "body": {
+          "items": [
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734102.752",
+                "login": false,
+                "path": "pages/miVip/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413017.0.0",
+                  "spm_code": "cms_17153.3734102.752",
+                  "spm_params": "{\"component\":\"personalv2_top_ad\",\"component_name\":\"\\u9876\\u90e8\\u5e7f\\u544a\\u56fe\\u4e00\\u884c\\u4e09\\u5217\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0061cea58b02c0e719419255b802edcf.png?w=120&h=120&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0061cea58b02c0e719419255b802edcf.png?f=webp&w=120&h=120&bg=7F0000",
+              "lottery_type": 0,
+              "small_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1417d5b1c092c37e68c1cb39986a892c.png",
+              "subtitle": "新权益",
+              "title": "会员中心"
+            },
+            {
+              "action": {
+                "extra": "[]",
+                "log_code": "bpm=70.331.3734102.753",
+                "login": false,
+                "path": "pages/miVip/vipShop/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413018.0.0",
+                  "spm_code": "cms_17153.3734102.753",
+                  "spm_params": "{\"component\":\"personalv2_top_ad\",\"component_name\":\"\\u9876\\u90e8\\u5e7f\\u544a\\u56fe\\u4e00\\u884c\\u4e09\\u5217\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d737e2e5bf2f8af67415f49c3f96dea7.png?w=120&h=120&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d737e2e5bf2f8af67415f49c3f96dea7.png?f=webp&w=120&h=120&bg=7F0000",
+              "lottery_type": 0,
+              "small_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1417d5b1c092c37e68c1cb39986a892c.png",
+              "subtitle": "限量神券",
+              "title": "米金商城"
+            },
+            {
+              "action": {
+                "extra": "{\"noLoginRequired\":1,\"url\":\"https:\\/\\/m.mi.com\\/mpointsmall\\/device?headless=1&getScoreAuto=1&type=2\"}",
+                "log_code": "bpm=70.331.3734102.754",
+                "login": false,
+                "path": "/pages/webview/index?noLoginRequired=1&url=https%3A%2F%2Fm.mi.com%2Fmpointsmall%2Fdevice%3Fheadless%3D1%26getScoreAuto%3D1%26type%3D2",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.425426.0.0",
+                  "spm_code": "cms_17153.3734102.754",
+                  "spm_params": "{\"component\":\"personalv2_top_ad\",\"component_name\":\"\\u9876\\u90e8\\u5e7f\\u544a\\u56fe\\u4e00\\u884c\\u4e09\\u5217\"}"
+                },
+                "type": "webview",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/743e08a9e069c7a7003e6b5e0aa4dec2.png?w=120&h=120&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/743e08a9e069c7a7003e6b5e0aa4dec2.png?f=webp&w=120&h=120&bg=7F0000",
+              "lottery_type": 0,
+              "small_img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1417d5b1c092c37e68c1cb39986a892c.png",
+              "stat": "get-points",
+              "subtitle": "领取米金",
+              "title": "连接设备"
+            }
+          ],
+          "lottery_type": 0
+        },
+        "components_name": "\\u9876\\u90e8\\u5e7f\\u544a\\u56fe\\u4e00\\u884c\\u4e09\\u5217",
+        "spm_c": "3818998",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3818998",
+          "spm_params": "{\"component\":\"personalv2_top_ad\",\"component_name\":\"\\u9876\\u90e8\\u5e7f\\u544a\\u56fe\\u4e00\\u884c\\u4e09\\u5217\"}"
+        },
+        "stat": "get-points",
+        "view_type": "personalv2_top_ad"
+      },
+      {
+        "block_id": "3738603",
+        "body": {
+          "line_color": "#f5f5f5",
+          "line_height": "30",
+          "lottery_type": 0
+        },
+        "components_name": "\\u5206\\u5272\\u7ebf",
+        "spm_c": "3738603",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738603",
+          "spm_params": "{\"component\":\"personalv2_divider_line\",\"component_name\":\"\\u5206\\u5272\\u7ebf\"}"
+        },
+        "stat": "personalv2_divider_line",
+        "view_type": "personalv2_divider_line"
+      },
+      {
+        "block_id": "3738602",
+        "body": {
+          "lottery_type": 0
+        },
+        "components_name": "\\u8ba2\\u5355\\u4fe1\\u606f",
+        "spm_c": "3738602",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738602",
+          "spm_params": "{\"component\":\"personalv2_order_info\",\"component_name\":\"\\u8ba2\\u5355\\u4fe1\\u606f\"}"
+        },
+        "stat": "personalv2_order_info",
+        "view_type": "personalv2_order_info"
+      },
+      {
+        "block_id": "3750991",
+        "body": {
+          "line_color": "#f5f5f5",
+          "line_height": "30",
+          "lottery_type": 0
+        },
+        "components_name": "\\u5206\\u5272\\u7ebf",
+        "spm_c": "3750991",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3750991",
+          "spm_params": "{\"component\":\"personalv2_divider_line\",\"component_name\":\"\\u5206\\u5272\\u7ebf\"}"
+        },
+        "stat": "personalv2_divider_line",
+        "view_type": "personalv2_divider_line"
+      },
+      {
+        "block_id": "3738604",
+        "body": {
+          "items": [
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734104.760",
+                "login": false,
+                "path": "/pages/money/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.429536.0.0",
+                  "spm_code": "cms_17153.3734104.760",
+                  "spm_params": "{\"component\":\"personalv2_activity\",\"component_name\":\"\\u6d3b\\u52a8\\u7ec4\\u4ef6\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8d72993b97d4766d2ccb9aa28fdcbae6.png?w=162&h=162&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8d72993b97d4766d2ccb9aa28fdcbae6.png?f=webp&w=162&h=162&bg=7F0000",
+              "lottery_type": 0,
+              "title": "小米精品推荐"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734104.761",
+                "login": false,
+                "path": "/pages/channel/index?page_title=优先购&page_id=14023",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.429537.0.0",
+                  "spm_code": "cms_17153.3734104.761",
+                  "spm_params": "{\"component\":\"personalv2_activity\",\"component_name\":\"\\u6d3b\\u52a8\\u7ec4\\u4ef6\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c6a313dc7ee4c89d7547a250056a2cf.png?w=162&h=162&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c6a313dc7ee4c89d7547a250056a2cf.png?f=webp&w=162&h=162&bg=7F0000",
+              "lottery_type": 0,
+              "title": "优先购"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734104.762",
+                "login": false,
+                "path": "pages/miTop/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.429595.0.0",
+                  "spm_code": "cms_17153.3734104.762",
+                  "spm_params": "{\"component\":\"personalv2_activity\",\"component_name\":\"\\u6d3b\\u52a8\\u7ec4\\u4ef6\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d88f89c09ec1a13e26e20e2ca09762c6.png?w=162&h=162&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d88f89c09ec1a13e26e20e2ca09762c6.png?f=webp&w=162&h=162&bg=7F0000",
+              "lottery_type": 0,
+              "title": "小米榜单"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734104.763",
+                "login": false,
+                "path": "",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.515241.0.0",
+                  "spm_code": "cms_17153.3734104.763",
+                  "spm_params": "{\"component\":\"personalv2_activity\",\"component_name\":\"\\u6d3b\\u52a8\\u7ec4\\u4ef6\"}"
+                },
+                "type": "none",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8d72a3664103823ef48672624bf39db7.jpg?w=162&h=162&bg=FFFFFF",
+              "img_url_color": "#FFFFFF",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8d72a3664103823ef48672624bf39db7.jpg?f=webp&w=162&h=162&bg=FFFFFF",
+              "lottery_type": 0,
+              "title": " "
+            }
+          ],
+          "lottery_type": 0
+        },
+        "components_name": "\\u6d3b\\u52a8\\u7ec4\\u4ef6",
+        "spm_c": "3738604",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738604",
+          "spm_params": "{\"component\":\"personalv2_activity\",\"component_name\":\"\\u6d3b\\u52a8\\u7ec4\\u4ef6\"}"
+        },
+        "stat": "personalv2_activity",
+        "view_type": "personalv2_activity"
+      },
+      {
+        "block_id": "3738612",
+        "body": {
+          "line_color": "#f5f5f5",
+          "line_height": "58",
+          "lottery_type": 0
+        },
+        "components_name": "\\u5206\\u5272\\u7ebf",
+        "spm_c": "3738612",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738612",
+          "spm_params": "{\"component\":\"personalv2_divider_line\",\"component_name\":\"\\u5206\\u5272\\u7ebf\"}"
+        },
+        "stat": "personalv2_divider_line",
+        "view_type": "personalv2_divider_line"
+      },
+      {
+        "block_id": "3738610",
+        "body": {
+          "activity_on": 1,
+          "items": [
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734105.766",
+                "login": false,
+                "path": "/pages/service/index?store_type=all",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.393944.0.0",
+                  "spm_code": "cms_17153.3734105.766",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/26c8a713a0c3efbbb4fcc1099a8d2077.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/26c8a713a0c3efbbb4fcc1099a8d2077.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "小米之家"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734105.767",
+                "login": false,
+                "path": "/pages/service/index?store_type=mihome",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413062.0.0",
+                  "spm_code": "cms_17153.3734105.767",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ff1721145700b7550cc5e4cc450d8d39.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ff1721145700b7550cc5e4cc450d8d39.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "服务网点"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734105.768",
+                "login": false,
+                "path": "/pages/consumables/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413064.0.0",
+                  "spm_code": "cms_17153.3734105.768",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d7a9294b20eddf09b084a072adeee9c.png?w=90&h=90&bg=FFFFFF",
+              "img_url_color": "#FFFFFF",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7d7a9294b20eddf09b084a072adeee9c.png?f=webp&w=90&h=90&bg=FFFFFF",
+              "lottery_type": 0,
+              "title": "耗材服务"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734105.769",
+                "login": false,
+                "path": "/pages/miInstructions/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413065.0.0",
+                  "spm_code": "cms_17153.3734105.769",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/be7b3d9eead3e2ab4090cfa5ae8d74fc.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/be7b3d9eead3e2ab4090cfa5ae8d74fc.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "在线说明书"
+            },
+            {
+              "action": {
+                "extra": "{\"noLoginRequired\":0,\"url\":\"https:\\/\\/chat.kefu.mi.com\\/page\\/index\\/v2?tag=cn&token=Y24jMTAwMSNjbi53ZWIubWkuaHR0cHMubW9iaWxlI3JlZmVyZXIjZ29vZHNEZXRhaWw=&groupId=P0&closedshow=1\"}",
+                "log_code": "bpm=70.331.3734105.770",
+                "login": true,
+                "path": "/pages/webview/index?noLoginRequired=0&url=https%3A%2F%2Fchat.kefu.mi.com%2Fpage%2Findex%2Fv2%3Ftag%3Dcn%26token%3DY24jMTAwMSNjbi53ZWIubWkuaHR0cHMubW9iaWxlI3JlZmVyZXIjZ29vZHNEZXRhaWw%3D%26groupId%3DP0%26closedshow%3D1",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413066.0.0",
+                  "spm_code": "cms_17153.3734105.770",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "webview",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/11c8c703ca871796d3370bba0472f890.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/11c8c703ca871796d3370bba0472f890.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "在线客服"
+            },
+            {
+              "action": {
+                "extra": "{\"noLoginRequired\":1,\"url\":\"https:\\/\\/m.mi.com\\/recycling\\/index?headless=1\"}",
+                "log_code": "bpm=70.331.3734105.771",
+                "login": false,
+                "path": "/pages/webview/index?noLoginRequired=1&url=https%3A%2F%2Fm.mi.com%2Frecycling%2Findex%3Fheadless%3D1",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.393926.0.0",
+                  "spm_code": "cms_17153.3734105.771",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "webview",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f9404ae5ce1418f934fbdb881bc77c8f.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f9404ae5ce1418f934fbdb881bc77c8f.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "以旧换新"
+            },
+            {
+              "action": {
+                "extra": "{\"noLoginRequired\":1,\"url\":\"https:\\/\\/s1.mi.com\\/m\\/app\\/hd\\/index.html?id=16205\"}",
+                "log_code": "bpm=70.331.3734105.772",
+                "login": false,
+                "path": "/pages/webview/index?noLoginRequired=1&url=https%3A%2F%2Fs1.mi.com%2Fm%2Fapp%2Fhd%2Findex.html%3Fid%3D16205",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.393869.0.0",
+                  "spm_code": "cms_17153.3734105.772",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "webview",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fac583894086a94ec7a9ff790d545a31.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fac583894086a94ec7a9ff790d545a31.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "安装服务"
+            },
+            {
+              "action": {
+                "extra": "{\"noLoginRequired\":1,\"url\":\"https:\\/\\/api.jr.mi.com\\/activity\\/accidentIns\\/?from=mishop&insuranceSku=34655\"}",
+                "log_code": "bpm=70.331.3734105.773",
+                "login": false,
+                "path": "/pages/webview/index?noLoginRequired=1&url=https%3A%2F%2Fapi.jr.mi.com%2Factivity%2FaccidentIns%2F%3Ffrom%3Dmishop%26insuranceSku%3D34655",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.478914.0.0",
+                  "spm_code": "cms_17153.3734105.773",
+                  "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+                },
+                "type": "webview",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12c17b1afa443cdfaeef9e7f2e501f3b.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/12c17b1afa443cdfaeef9e7f2e501f3b.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "MiCare"
+            }
+          ],
+          "lottery_type": 0,
+          "right_bar_action": {
+            "extra": "{\"page_title\":\"\\u5168\\u90e8\\u670d\\u52a1\",\"page_id\":\"17282\"}",
+            "log_code": "bpm=70.331.3734105.764",
+            "login": false,
+            "path": "/pages/channel/index?page_type=channel&page_title=全部服务&page_id=17282",
+            "spm_stat": {
+              "scm": "cms.0.0.0.page.17282.0.0",
+              "spm_code": "cms_17153.3734105.764",
+              "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+            },
+            "type": "channel",
+            "url": ""
+          },
+          "show_num": 2,
+          "title": "我的服务"
+        },
+        "components_name": "\\u6211\\u7684\\u670d\\u52a1",
+        "spm_c": "3738610",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738610",
+          "spm_params": "{\"component\":\"personalv2_service\",\"component_name\":\"\\u6211\\u7684\\u670d\\u52a1\"}"
+        },
+        "stat": "personalv2_service",
+        "view_type": "personalv2_service"
+      },
+      {
+        "block_id": "3738613",
+        "body": {
+          "line_color": "#f5f5f5",
+          "line_height": "30",
+          "lottery_type": 0
+        },
+        "components_name": "\\u5206\\u5272\\u7ebf",
+        "spm_c": "3738613",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738613",
+          "spm_params": "{\"component\":\"personalv2_divider_line\",\"component_name\":\"\\u5206\\u5272\\u7ebf\"}"
+        },
+        "stat": "personalv2_divider_line",
+        "view_type": "personalv2_divider_line"
+      },
+      {
+        "block_id": "3738631",
+        "body": {
+          "items": [
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734107.779",
+                "login": true,
+                "path": "pages/address/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413069.0.0",
+                  "spm_code": "cms_17153.3734107.779",
+                  "spm_params": "{\"component\":\"personalv2_tools\",\"component_name\":\"\\u6211\\u7684\\u5de5\\u5177\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fc48f9720559e5702abe277e7a42158c.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fc48f9720559e5702abe277e7a42158c.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "收货地址"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734107.780",
+                "login": true,
+                "path": "/pages/giftcode/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413070.0.0",
+                  "spm_code": "cms_17153.3734107.780",
+                  "spm_params": "{\"component\":\"personalv2_tools\",\"component_name\":\"\\u6211\\u7684\\u5de5\\u5177\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/850f778c5ec9ad55213c03526c04ab6b.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/850f778c5ec9ad55213c03526c04ab6b.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "礼物码"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734107.781",
+                "login": false,
+                "path": "/pages/fitment/design/index",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413071.0.0",
+                  "spm_code": "cms_17153.3734107.781",
+                  "spm_params": "{\"component\":\"personalv2_tools\",\"component_name\":\"\\u6211\\u7684\\u5de5\\u5177\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9bdc2e49b7e3ecef16107ff2ec86f59f.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9bdc2e49b7e3ecef16107ff2ec86f59f.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "智能定制"
+            },
+            {
+              "action": {
+                "extra": "",
+                "log_code": "bpm=70.331.3734107.782",
+                "login": false,
+                "path": "/pages/setting/index?page=about",
+                "spm_stat": {
+                  "scm": "cms.0.0.0.img.413072.0.0",
+                  "spm_code": "cms_17153.3734107.782",
+                  "spm_params": "{\"component\":\"personalv2_tools\",\"component_name\":\"\\u6211\\u7684\\u5de5\\u5177\"}"
+                },
+                "type": "url",
+                "url": ""
+              },
+              "ad_level_id": 0,
+              "img_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c063effdbb0857d5b0b30db7731b3a4.png?w=90&h=90&bg=7F0000",
+              "img_url_color": "#7F0000",
+              "img_url_webp": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/3c063effdbb0857d5b0b30db7731b3a4.png?f=webp&w=90&h=90&bg=7F0000",
+              "lottery_type": 0,
+              "title": "关于"
+            }
+          ],
+          "lottery_type": 0,
+          "show_num": 1
+        },
+        "components_name": "\\u6211\\u7684\\u5de5\\u5177",
+        "spm_c": "3738631",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3738631",
+          "spm_params": "{\"component\":\"personalv2_tools\",\"component_name\":\"\\u6211\\u7684\\u5de5\\u5177\"}"
+        },
+        "stat": "personalv2_tools",
+        "view_type": "personalv2_tools"
+      },
+      {
+        "block_id": "3740946",
+        "body": {
+          "line_color": "#f5f5f5",
+          "line_height": "48",
+          "lottery_type": 0
+        },
+        "components_name": "\\u5206\\u5272\\u7ebf",
+        "spm_c": "3740946",
+        "spm_stat": {
+          "scm": "cms.0.0.0.0.0.0.0",
+          "spm_code": "cms_17153.3740946",
+          "spm_params": "{\"component\":\"personalv2_divider_line\",\"component_name\":\"\\u5206\\u5272\\u7ebf\"}"
+        },
+        "stat": "personalv2_divider_line",
+        "view_type": "personalv2_divider_line"
+      }
+    ]
+  },
+  "error": "success",
+  "code": 0
+}
