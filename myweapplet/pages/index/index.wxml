@@ -6,4 +6,19 @@
   </view>
 </view>
 <swiper></swiper>
+<view class='audioContainer'>
+  <view>录音</view>
+  <!--当前为停止状态  -->
+  <view class='audioImg' wx:if="{{isplay==false}}" bindtap='play'>
+    <image style="width:100%;height:100%;border-radius:50%;" src='/pages/image/play.png' />
+  </view>
+  <!--当前为播放状态  -->
+  <view class='audioImg'  wx:if="{{isplay==true}}" bindtap='stop'>
+    <image style="width:100%;height:100%;border-radius:50%;" src='' />
+  </view>
 </view>
+<view style='width:50%'>
+<button bindtap='review' type='primary'>重新播放</button>
+</view>
+</view>
+
