@@ -1,1 +1,17 @@
-/* pages/index/index.wxss */
+.index-main{
+  padding: 30rpx;
+  height: 1500rpx;
+  /* background-color: #eee; */
+}
+
+.search{
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.search search{
+  flex: 1;
+}
+
+.swiper{
+  margin-bottom: 30rpx;
+}

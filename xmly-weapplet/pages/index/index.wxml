@@ -1,2 +1,14 @@
-<!--pages/index/index.wxml-->
-<text>pages/index/index.wxml</text>
+<view class="index-main">
+  <view class="search">
+    <search placeholder="搜索专辑、声音、主播"></search>
+  </view>
+  <view class="swiper">
+    <page-swiper></page-swiper>
+  </view>
+  <view class="icon-grid">
+    <icon-grid></icon-grid>
+  </view>
+  <view>
+    <text>猜你喜欢</text>
+  </view>
+</view>

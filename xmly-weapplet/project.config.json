@@ -4,7 +4,7 @@
     "ignore": []
   },
   "setting": {
-    "urlCheck": true,
+    "urlCheck": false,
     "es6": true,
     "enhance": true,
     "postcss": true,
@@ -41,7 +41,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.18.0",
   "appid": "wxc9e548a4be6870fb",
-  "projectname": "miniprogram-1",
+  "projectname": "喜马拉雅lite",
   "debugOptions": {
     "hidedInDevtools": []
   },

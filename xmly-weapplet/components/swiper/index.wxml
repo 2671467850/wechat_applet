@@ -8,10 +8,10 @@
   >
     <swiper-item
       class="swiper-item"
-      wx:for="{{data}}"
+      wx:for="{{swiperList}}"
       wx:key="index"
     >
-      <image class="swiper-img" src="{{item}}"></image>
+      <image class="swiper-img" src="{{item.coverPath}}"></image>
     </swiper-item>
   </swiper>
 </view>

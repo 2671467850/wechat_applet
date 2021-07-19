@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "icon-grid": "../../../../components/iconGrid/index"
+  }
+}
