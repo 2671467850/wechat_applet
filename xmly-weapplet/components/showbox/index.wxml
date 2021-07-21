@@ -1,0 +1,17 @@
+<!-- 猜你喜欢模块 -->
+<view class="guess-youlike">
+  <view wx:if="{{showName}}" class="box-name">
+    <text>猜你喜欢</text>
+  </view>
+  <view class="cont-box">
+    <view class="cont-item" wx:for="{{newShowData}}" wx:key="index">
+      <image class="box-img" src="{{item.albumInfo.cover}}" alt="" />
+      <text class="box-title">{{item.albumInfo.title}}</text>
+    </view>
+  </view>
+  <view wx:if="{{showNext}}" class="box-next">
+    <button bindtap="nextData" class="box-btn-next">
+      换一批
+    </button>
+  </view>
+</view>

@@ -1,6 +1,6 @@
 .index-main{
   padding: 30rpx;
-  height: 1500rpx;
+  /* height: 1500rpx; */
   /* background-color: #eee; */
 }
 
@@ -14,4 +14,17 @@
 
 .swiper{
   margin-bottom: 30rpx;
+}
+
+tabs .weui-tabs-bar__content{
+  text-align: center;
+}
+
+tabs .weui-tabs-bar__item{
+  margin: 0 50rpx;
+  font-size: 32rpx;
+}
+
+tabs .weui-tabs-swiper{
+  height: 300px;
 }

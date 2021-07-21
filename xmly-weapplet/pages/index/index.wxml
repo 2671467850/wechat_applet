@@ -1,5 +1,5 @@
 <view class="index-main">
-  <view class="search">
+  <view class="search" bindtap="goToSearch">
     <search placeholder="搜索专辑、声音、主播"></search>
   </view>
   <view class="swiper">
@@ -8,7 +8,6 @@
   <view class="icon-grid">
     <icon-grid></icon-grid>
   </view>
-  <view>
-    <text>猜你喜欢</text>
-  </view>
+  <show-box showName="{{true}}" showNext="{{true}}" showData="{{newLikeData}}"></show-box>
+  <tabs tabData="{{newAllData}}"></tabs>
 </view>

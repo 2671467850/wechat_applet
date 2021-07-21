@@ -10,11 +10,11 @@
   align-items: center;
 }
 
-.icon-img image{
+.icon-img .img{
   width: 100rpx;
   height: 100rpx;
 }
 
-.icon-title text{
+.icon-title .title{
   font-size: 28rpx;
 }

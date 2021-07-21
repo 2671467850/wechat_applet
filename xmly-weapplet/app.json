@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/category/index",
     "pages/goodtop/index",
-    "pages/my/index"
+    "pages/my/index",
+    "pages/search/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -41,5 +42,6 @@
         "text": "我的"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

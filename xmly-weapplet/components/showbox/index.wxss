@@ -1,0 +1,58 @@
+.guess-youlike{
+  padding-top: 40rpx;
+  /* background-color: orange; */
+  border-bottom: 10rpx solid #eee;
+}
+
+.box-name{
+  font-size: 38rpx;
+  margin-bottom: 30rpx;
+}
+
+.cont-box{
+  font-size: 35rpx;
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-bottom: 40rpx;
+}
+.cont-item{
+  /* background-color: orange; */
+  width: 30%;
+  margin: 5rpx 10rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-img{
+  border-radius: 15rpx;
+  vertical-align: top;
+  width: 100%;
+  height: 30vw;
+  margin-bottom: 10rpx;
+}
+.box-title{
+  font-size: 29rpx;
+  line-height: 29rpx;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+}
+
+.box-next{
+  margin-bottom: 40rpx;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box-btn-next{
+  background: #fff;
+  line-height: 60rpx;
+  font-size: 30rpx;
+  border: none;
+}

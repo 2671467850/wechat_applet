@@ -12,7 +12,7 @@ Component({
 
   methods: {
     handleSearchInput: _.debounce((e) => {
-      // console.log(e.detail.value)
+      console.log(e.detail.value)
       // const currentPages = getCurrentPages()
       // const self = currentPages[currentPages.length-1]
       // self.setData({

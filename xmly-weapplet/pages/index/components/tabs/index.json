@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mp-tabs": "@miniprogram-component-plus/tabs",
+    "show-box": "../../../../components/showbox/index"
+  }
+}

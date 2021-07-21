@@ -4,11 +4,15 @@
     wx:for="{{iconList}}"
     wx:key="index"
   >
-    <view class="icon-img">
-      <image src="{{item.img}}"></image>
+    <view
+      class="icon-img"
+      bindtap="goToPage"
+      data-url='{{item.url}}'
+    >
+      <image class="img" src="{{item.img}}"></image>
     </view>
     <view class="icon-title">
-      <text>{{item.title}}</text>
+      <text class="title">{{item.title}}</text>
     </view>
   </view>
 </view>

@@ -7,6 +7,8 @@
   "usingComponents": {
     "search": "../../components/search/index",
     "page-swiper": "./components/page-swiper/index",
-    "icon-grid": "./components/iconGrid/index"
+    "icon-grid": "./components/iconGrid/index",
+    "show-box": "../../components/showbox/index",
+    "tabs": "./components/tabs/index"
   }
 }
