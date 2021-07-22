@@ -1,0 +1,83 @@
+.top-info{
+  margin: 40rpx 20rpx;
+  background-color: #fff;
+  border-radius: 20rpx;
+  padding: 0 25rpx;
+}
+
+.top-name{
+  font-size: 35rpx;
+  padding: 20rpx 0;
+}
+
+.top-box1{
+  display: flex;
+}
+
+.top-three{
+  /* background-color: orange; */
+  /* width: 30%; */
+  flex: 1;
+  margin-right: 25rpx;
+  margin-bottom: 20rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.box-img{
+  border-radius: 15rpx;
+  vertical-align: top;
+  width: 100%;
+  height: 30vw;
+  margin-bottom: 10rpx;
+}
+.box-title{
+  font-size: 29rpx;
+  line-height: 29rpx;
+  text-align: left;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+}
+
+.top-index{
+  color: white;
+  background-color: red;
+  border-radius: 0 15rpx 15rpx 0;
+  height: 29rpx;
+  font-size: 23rpx;
+  line-height: 29rpx;
+}
+
+.top-box2{
+  margin-top: 10rpx;
+  overflow: hidden;
+}
+
+.other-three{
+  display: flex;
+  align-items: center;
+  margin: 25rpx 0;
+}
+
+.other-three-img{
+  width: 15vw;
+  height: 15vw;
+}
+
+.other-three-img-url{
+  width: 100%;
+  height: 100%;
+  border-radius: 20rpx;
+}
+
+.other-three-index{
+  color: #999;
+  font-weight: 600;
+}
+
+.comm-margin-right{
+  margin-right: 20rpx;
+}

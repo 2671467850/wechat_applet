@@ -1,0 +1,22 @@
+<view>
+  <view class="for-you-name">
+    <text>为你推荐</text>
+  </view>
+  <view class="for-you-box">
+  <!-- 1 -->
+    <view
+      class="for-you-item"
+      wx:for="{{listData}}"
+      wx:key="index"
+    >
+      <view class="for-you-img">
+        <image class="item-img" src="{{item.data.albumInfo.cover}}" alt="" />
+      </view>
+      <view class="for-you-word">
+        <view class="for-you-title">{{item.data.albumInfo.title}}</view>
+        <view class="for-you-point">{{item.data.albumInfo.salePoint}}</view>
+        <view class="for-you-count">收听icon: {{item.data.statCountInfo.playCount}}</view>
+      </view>
+    </view>
+  </view>
+</view>

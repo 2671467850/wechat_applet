@@ -16,5 +16,5 @@
 }
 
 .icon-title .title{
-  font-size: 28rpx;
+  font-size: 27rpx;
 }

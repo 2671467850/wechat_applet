@@ -1,0 +1,23 @@
+.top-icon{
+  display: flex;
+  padding: 0 30rpx;
+}
+.top-icon-item{
+  flex: 1;
+  margin: 0 5rpx;
+  /* width: 10%; */
+}
+
+.top-icon-img{
+  width: 100%;
+  text-align: center;
+}
+
+.top-icon-img-url{
+  width: 80%;
+}
+
+.top-icon-title{
+  text-align: center;
+  font-size: 25rpx;
+}

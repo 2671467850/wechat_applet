@@ -1,0 +1,16 @@
+<view class="character-view">
+  <view class="character-view-name"><text>明星名家大咖墙</text></view>
+  <scroll-view  scroll-x="true" class="character-swiper-cont">
+    <view
+      class="character-swiper-box"
+      wx:for="{{characterList}}"
+      wx:key="index"
+    >
+      <view class="character-swiper-img">
+        <image class="character-swiper-img-url" src="{{item.avatarPath}}" mode="widthFix" />
+      </view>
+      <view class="character-word character-name">{{item.name}}</view>
+      <view class="character-word character-info">{{item.description}}</view>
+    </view>
+  </scroll-view>
+</view>

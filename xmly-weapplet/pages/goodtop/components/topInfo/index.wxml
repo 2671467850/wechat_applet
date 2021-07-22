@@ -1,0 +1,28 @@
+<view class="top-info">
+  <view class="top-name">
+    <text>排行榜</text>
+  </view>
+  <view class="top-box1">
+    <view
+      class="top-three"
+      wx:for="{{topThreeList}}"
+      wx:key="index"
+    >
+      <image class="box-img" src="{{item.albumInfo.cover}}" mode="widthFix" alt="" />
+      <text class="box-title"><text class="top-index">TOP {{index+1}}</text>{{item.albumInfo.title}}</text>
+    </view>
+  </view>
+  <view class="top-box2">
+    <view
+      class="other-three"
+      wx:for="{{otherList}}"
+      wx:key="index"
+    >
+      <view class="comm-margin-right other-three-index">{{index+4}}.</view>
+      <view class="comm-margin-right other-three-img">
+        <image src="{{item.albumInfo.cover}}" class="other-three-img-url" mode="widthFix"></image>
+      </view>
+      <view class="box-title other-three-title">{{item.albumInfo.title}}</view>
+    </view>
+  </view>
+</view>

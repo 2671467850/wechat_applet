@@ -1,1 +1,73 @@
-/* pages/category/index.wxss */
+page{
+  height: 100%;
+}
+
+.my-category{
+  display: flex;
+  height: 100%;
+}
+
+.my-left-tabs{
+  width: 25%;
+  background: #eee;
+  height: 100%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+}
+.my-left-tabs::-webkit-scrollbar { width: 0 !important }
+.my-tabs-item{
+  height: 100rpx;
+  /* background-color: white; */
+  text-align: center;
+  line-height: 100rpx;
+  font-size: 32rpx;
+}
+.activeTab{
+  background-color: white;
+  border-left: 5rpx solid #f86442;
+  color: #f86442;
+}
+
+.my-right-cont{
+  width: 75%;
+  height: 100%;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30rpx;
+  /* background: orange; */
+}
+.my-cont-item{
+  display: flex;
+  padding: 30rpx 0;
+}
+
+.cont-img{
+  width: 20%;
+  height: 15vw;
+  margin-right: 30rpx;
+}
+
+.cont-item-img{
+  width: 100%;
+  height: 100%;
+  vertical-align: top;
+  border-radius: 10%;
+}
+
+.cont-item-word{
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cont-item-title{
+  font-size: 35rpx;
+}
+
+.cont-item-count{
+  font-size: 25rpx;
+  color: #666;
+}

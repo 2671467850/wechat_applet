@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@miniprogram-component-plus/tabs": "^1.0.0",
+    "@miniprogram-component-plus/vtabs": "^1.0.0",
+    "@miniprogram-component-plus/vtabs-content": "^1.0.0",
     "mobx-miniprogram": "^4.13.2",
     "mobx-miniprogram-bindings": "^2.0.0",
     "underscore": "^1.13.1"

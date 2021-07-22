@@ -1,0 +1,14 @@
+<view class="top-icon">
+  <view
+    class="top-icon-item"
+    wx:for="{{iconList}}"
+    wx:key="index"
+  >
+    <view class="top-icon-img">
+      <image class="top-icon-img-url" src="{{item.icon}}" mode="widthFix"></image>
+    </view>
+    <view class="top-icon-title">
+      <text>{{item.text}}</text>
+    </view>
+  </view>
+</view>

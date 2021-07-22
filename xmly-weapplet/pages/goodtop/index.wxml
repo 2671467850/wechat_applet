@@ -1,2 +1,6 @@
-<!--pages/goodtop/index.wxml-->
-<text>pages/goodtop/index.wxml</text>
+<top-icon iconList="{{iconData}}"></top-icon>
+<top-info infoList="{{topData}}"></top-info>
+<my-character-wall characterList="{{peopleData}}"></my-character-wall>
+<view class="goodtop-show-box">
+  <show-box showName="{{true}}" showNext="{{true}}" showData="{{newLikeData}}"></show-box>
+</view>

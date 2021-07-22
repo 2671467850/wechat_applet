@@ -26,5 +26,5 @@ tabs .weui-tabs-bar__item{
 }
 
 tabs .weui-tabs-swiper{
-  height: 300px;
+  height: 700rpx;
 }

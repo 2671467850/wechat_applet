@@ -3,12 +3,14 @@
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "喜马拉雅",
   "backgroundTextStyle": "light",
+  "onReachBottomDistance": 50,
   
   "usingComponents": {
     "search": "../../components/search/index",
     "page-swiper": "./components/page-swiper/index",
     "icon-grid": "./components/iconGrid/index",
     "show-box": "../../components/showbox/index",
-    "tabs": "./components/tabs/index"
+    "tabs": "./components/tabs/index",
+    "for-you": "../../components/for-you/index"
   }
 }

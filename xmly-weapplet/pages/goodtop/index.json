@@ -1,3 +1,12 @@
 {
-  "usingComponents": {}
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTitleText": "精品",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "top-icon": "./components/topIcon/index",
+    "top-info": "./components/topInfo/index",
+    "my-character-wall": "./components/character-wall/index",
+    "show-box": "../../components/showbox/index"
+  }
 }

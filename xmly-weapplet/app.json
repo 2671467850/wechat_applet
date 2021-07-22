@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/playpage/index",
     "pages/index/index",
     "pages/category/index",
     "pages/goodtop/index",

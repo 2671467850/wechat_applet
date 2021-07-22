@@ -1,1 +1,11 @@
-/* pages/goodtop/index.wxss */
+Page{
+  padding: 20rpx 0rpx;
+  background-color: #fdfdfd;
+}
+
+.goodtop-show-box{
+  margin: 0 20rpx;
+  padding: 0 10rpx;
+  background: #fff;
+  border-radius: 20rpx;
+}

@@ -1,0 +1,3 @@
+<view class="play-info-view">
+  <play-info searchId="{{id}}"></play-info>
+</view>

@@ -51,5 +51,14 @@ Component({
         })
       }
     },
+    goToPlay(e){
+      // console.log(e.currentTarget.dataset.id)
+      wx.navigateTo({
+        url: '/pages/playpage/index',
+        success: function(res) {
+          res.eventChannel.emit('acceptDataFromOpenerPage', { id: e.currentTarget.dataset.id })
+        }
+      })
+    }
   }
 })

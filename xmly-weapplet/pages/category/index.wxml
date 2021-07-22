@@ -1,2 +1,28 @@
-<!--pages/category/index.wxml-->
-<text>pages/category/index.wxml</text>
+<view class="my-category">
+  <view class="my-left-tabs">
+    <view
+      class="my-tabs-item {{activeTab === item.id ? 'activeTab' : ''}}"
+      wx:for="{{tabList}}"
+      wx:key="index"
+      bindtap="handlerTabClick"
+      data-id="{{item.id}}"
+    >
+      <text>{{item.name}}</text>
+    </view>
+  </view>
+  <view class="my-right-cont">
+    <view
+      class="my-cont-item"
+      wx:for="{{contList}}"
+      wx:key="index"
+    >
+      <view class="cont-img">
+        <image class="cont-item-img" src="{{item.coverPath}}" alt="" />
+      </view>
+      <view class="cont-item-word">
+        <view class="cont-item-title">{{item.channelName}}</view>
+        <view class="cont-item-count">{{item.trackCount}}节目 | {{item.newCount}}更新</view>
+      </view>
+    </view>
+  </view>
+</view>

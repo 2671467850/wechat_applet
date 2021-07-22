@@ -10,4 +10,5 @@
   </view>
   <show-box showName="{{true}}" showNext="{{true}}" showData="{{newLikeData}}"></show-box>
   <tabs tabData="{{newAllData}}"></tabs>
+  <for-you listData="{{forYouData}}"></for-you>
 </view>
