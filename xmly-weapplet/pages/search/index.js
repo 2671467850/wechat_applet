@@ -1,66 +1,48 @@
-// pages/search/index.js
 Page({
-
-  /**
-   * 页面的初始数据
-   */
   data: {
-
+    topList: [],
+    searchHistory: [],
+    searchData: []
   },
-
-  /**
-   * 生命周期函数--监听页面加载
-   */
-  onLoad: function (options) {
-
+  onLoad(){
+    this.getStorage()
+    wx.request({
+      url: 'https://search.ximalaya.com/hotWordBillboard/list/2.0?categoryId=-1&size=24',
+      success:(res)=>{
+        this.setData({
+          topList: res.data.hotWordResultList
+        })
+      }
+    })
   },
-
-  /**
-   * 生命周期函数--监听页面初次渲染完成
-   */
-  onReady: function () {
-
+  handlerTopClick(e){
+    this.setStorage(e.currentTarget.dataset.kw)
+    this.getStorage()
+    wx.request({
+      url: `https://m.ximalaya.com/m-revision/page/search?kw=${e.currentTarget.dataset.kw}&core=all&page=1&rows=5`,
+      success: (res)=>{
+        console.log(res.data.data.albumViews.albums)
+        this.setData({
+          searchData: res.data.data.albumViews.albums
+        })
+      }
+    })
   },
-
-  /**
-   * 生命周期函数--监听页面显示
-   */
-  onShow: function () {
-
+  setStorage(data){
+    this.data.searchHistory.unshift(data)
+    wx.setStorage({
+      key:"search_history",
+      data:this.data.searchHistory
+    })
   },
-
-  /**
-   * 生命周期函数--监听页面隐藏
-   */
-  onHide: function () {
-
-  },
-
-  /**
-   * 生命周期函数--监听页面卸载
-   */
-  onUnload: function () {
-
-  },
-
-  /**
-   * 页面相关事件处理函数--监听用户下拉动作
-   */
-  onPullDownRefresh: function () {
-
-  },
-
-  /**
-   * 页面上拉触底事件的处理函数
-   */
-  onReachBottom: function () {
-
-  },
-
-  /**
-   * 用户点击右上角分享
-   */
-  onShareAppMessage: function () {
-
+  getStorage(){
+    wx.getStorage({
+      key: 'search_history',
+      success:(res)=>{
+        this.setData({
+          searchHistory: res.data
+        })
+      }
+    })
   }
 })

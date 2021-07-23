@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "play-info": "./components/playInfo/index"
+    "play-info": "./components/playInfo/index",
+    "play-list": "./components/playlist/index"
   }
 }

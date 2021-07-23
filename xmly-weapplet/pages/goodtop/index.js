@@ -35,4 +35,7 @@ Page({
       }
     })
   },
+  onUnload() {
+    this.storeBindings.destroyStoreBindings()
+  },
 })

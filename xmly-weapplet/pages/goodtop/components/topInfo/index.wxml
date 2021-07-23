@@ -7,6 +7,8 @@
       class="top-three"
       wx:for="{{topThreeList}}"
       wx:key="index"
+      bindtap="handlerTopBoxClick"
+      data-index="{{item.albumInfo.id}}"
     >
       <image class="box-img" src="{{item.albumInfo.cover}}" mode="widthFix" alt="" />
       <text class="box-title"><text class="top-index">TOP {{index+1}}</text>{{item.albumInfo.title}}</text>
@@ -17,6 +19,8 @@
       class="other-three"
       wx:for="{{otherList}}"
       wx:key="index"
+      bindtap="handlerTopBoxClick"
+      data-index="{{item.albumInfo.id}}"
     >
       <view class="comm-margin-right other-three-index">{{index+4}}.</view>
       <view class="comm-margin-right other-three-img">

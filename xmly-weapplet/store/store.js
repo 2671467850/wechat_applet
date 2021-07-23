@@ -7,6 +7,10 @@ export const store = observable({
   baseImgPath: "https://imagev2.xmcdn.com/",
   likeData: [],
   allData: [],
+  subscribeData: [],
+  playAll: false,
+  playIndex: -1,
+  // currentPageId: 0,
 
   // 计算属性
   get newLikeData() {
@@ -43,6 +47,22 @@ export const store = observable({
   updateAll: action(function (data) {
     let allData = data
     this.allData = allData
-  })
+  }),
+  updateSubscribeData: action(function (data) {
+    let subscribeData = data
+    this.subscribeData.unshift(subscribeData)
+  }),
+  updatePlayAll: action(function (data) {
+    let playAll = data
+    this.playAll = playAll
+  }),
+  updatePlayIndex: action(function (data) {
+    let playIndex = data
+    this.playIndex = playIndex
+  }),
+  // updateCurrentPageId: action(function (data){
+  //   let currentPageId = data
+  //   this.currentPageId = currentPageId
+  // })
 
 })

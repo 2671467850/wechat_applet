@@ -3,5 +3,7 @@
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTitleText": "搜索",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "my-search": "../../components/search/index"
+  }
 }

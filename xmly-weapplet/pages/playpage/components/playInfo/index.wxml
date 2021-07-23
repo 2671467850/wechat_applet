@@ -4,6 +4,9 @@
   </view>
   <view class="play-info-word">
     <view class="play-info-title">{{info.title}}</view>
-    <view class="play-share"><button size="mini">订阅</button><!-- <button size="mini">分享</button> --></view>
+    <view class="play-share">
+      <button bindtap="handlerButtonClick" size="mini">订阅</button>
+      <!-- <button size="mini">分享</button> -->
+    </view>
   </view>
 </view>

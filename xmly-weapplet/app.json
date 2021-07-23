@@ -1,11 +1,11 @@
 {
   "pages": [
-    "pages/playpage/index",
     "pages/index/index",
     "pages/category/index",
     "pages/goodtop/index",
     "pages/my/index",
-    "pages/search/index"
+    "pages/search/index",
+    "pages/playpage/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

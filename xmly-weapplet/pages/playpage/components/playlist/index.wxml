@@ -1,0 +1,67 @@
+<view class="play-list-main">
+  <view class="play-list-top">
+    <view
+      class="{{activeIndex === index ? 'active-tab' : ''}} play-list-tab"
+      wx:for="{{tabList}}"
+      wx:key="index"
+      bindtap="changeTab"
+      data-index="{{index}}"
+    >{{item.title}}</view>
+  </view>
+  <view class="play-list-cont">
+    <view class="play-list-control">
+      <view wx:if="{{playAll}}" class="play-control-all">
+        <text bindtap="handlerPauseAllClick" class="iconfont icon-zantingbofang"></text>
+        暂停播放
+      </view>
+      <view wx:else class="play-control-all">
+        <text bindtap="handlerPlayAllClick" class="iconfont icon-bofang"></text>
+        播放全部
+      </view>
+      <view class="play-control-sort">排序</view>
+      <view class="play-control-check">选集</view>
+    </view>
+    <view class="play-list-box">
+      <view
+        class="play-list-item"
+        wx:for="{{list}}"
+        wx:key="index"
+      >
+        <view class="play-item-cont">
+          <view class="play-item-index">
+            <text>{{index+1}}</text>
+          </view>
+          <view class="{{playIndex === item.id ? 'active-item' : ''}} play-item-title">{{item.trackInfo.title}}</view>
+          <view class="play-item-control">
+            <!-- 暂停 -->
+            <text wx:if="{{playIndex == item.id}}" bindtap="handlerPauseItemClick" data-playId="{{item.trackInfo.id}}" class=" size-big iconfont icon-bofang1"></text>
+            <!-- 播放 -->
+            <text
+              wx:else
+              bindtap="handlerPlayItemClick"
+              data-playid="{{item.id}}"
+              data-playurl="{{item.trackInfo.playPath}}"
+              class="size-big iconfont icon-bofang"></text>
+          </view>
+        </view>
+        <view class="play-item-count">
+          {{item.trackInfo.createdAt}}
+        </view>
+      </view>
+      <!-- 2 -->
+      <!-- <view class="play-list-item">
+        <view class="play-item-cont">
+          <view class="play-item-index">
+            <text>1</text>
+          </view>
+          <view class="play-item-title">女神的贴身高手 第1集 隔壁的晴姐-（新书《大奉打更人》，听书精彩评论抢红包）</view>
+          <view class="play-item-control"><text class="size-big iconfont icon-bofang"></text></view>
+        </view>
+        <view class="play-item-count">
+          ssdsadsads
+        </view>
+      </view> -->
+      <!-- other -->
+    </view>
+  </view>
+</view>

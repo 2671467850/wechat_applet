@@ -1,2 +1,37 @@
-<!--pages/search/index.wxml-->
-<text>pages/search/index.wxml</text>
+<view class="search-view">
+  <my-search placeholder="搜索"></my-search>
+</view>
+<view wx:if="{{searchData.length}}">
+
+</view>
+<view wx:else>
+<!-- <view> -->
+  <view
+    class="search-history"
+    wx:if="{{searchHistory.length}}"
+  >
+    <text class="search-view-name">搜索历史</text>
+    <view class="search-history-box">
+      <view
+        class="search-history-item"
+        wx:for="{{searchHistory}}"
+        wx:key="index"
+      >{{item}}</view>
+    </view>
+  </view>
+  <view class="search-view search-top">
+    <text class="search-view-name">大家都在搜</text>
+    <view class="search-top-box">
+      <view
+        class="search-top-item"
+        wx:for="{{topList}}"
+        wx:key="index"
+        bindtap="handlerTopClick"
+        data-kw="{{item.display_word}}"
+      >
+        <text class="search-top-item-index">{{index+1}}</text>
+        <text class="search-top-item-title">{{item.display_word}}</text>
+      </view>
+    </view>
+  </view>
+</view>

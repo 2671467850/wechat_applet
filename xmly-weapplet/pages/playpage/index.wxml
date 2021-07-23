@@ -1,3 +1,6 @@
 <view class="play-info-view">
   <play-info searchId="{{id}}"></play-info>
 </view>
+<view class="play-list-view">
+  <play-list searchId="{{id}}"></play-list>
+</view>

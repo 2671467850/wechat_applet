@@ -8,6 +8,8 @@
       class="for-you-item"
       wx:for="{{listData}}"
       wx:key="index"
+      bindtap="handlerClick"
+      data-index="{{item.data.albumInfo.id}}"
     >
       <view class="for-you-img">
         <image class="item-img" src="{{item.data.albumInfo.cover}}" alt="" />

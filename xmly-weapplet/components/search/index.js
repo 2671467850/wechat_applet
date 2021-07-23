@@ -7,7 +7,7 @@ Component({
   },
 
   data: {
-    placeholder:"请输入搜索内容"
+    // placeholder:"请输入搜索内容"
   },
 
   methods: {
