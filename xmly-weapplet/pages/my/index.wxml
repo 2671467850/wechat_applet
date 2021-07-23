@@ -1,2 +1,3 @@
-<!--pages/my/index.wxml-->
-<text>pages/my/index.wxml</text>
+<button
+  bindtap="showSubscribeData"
+>显示订阅</button>

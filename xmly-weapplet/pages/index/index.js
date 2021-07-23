@@ -2,7 +2,8 @@ import { createStoreBindings } from 'mobx-miniprogram-bindings'
 import { store } from '../../store/store'
 Page({
   onReachBottom(){
-    console.log("上拉加载更多")
+    // console.log("上拉加载更多")
+    this.getMoreForYouData()
   },
   data: {
     forYouData: []
@@ -62,6 +63,26 @@ Page({
   goToSearch: ()=>{
     wx.navigateTo({
       url: '/pages/search/index',
+    })
+  },
+  getMoreForYouData(){
+    wx.request({
+      url: 'https://m.ximalaya.com/m-revision/page/wechat/homepage/feedInfo?size=10',
+      success: (res)=>{
+        if(res.data.ret === 0){
+          res.data.data.map(item=>{
+            item.data.albumInfo.cover = "https://imagev2.xmcdn.com/" + item.data.albumInfo.cover
+            return item
+          })
+          // console.log(this.data.forYouData)
+          // console.log(res.data.data)
+          let oldData = this.data.forYouData
+          let newData = oldData.concat(res.data.data)
+          this.setData({
+            forYouData: newData
+          })
+        }
+      }
     })
   }
 })

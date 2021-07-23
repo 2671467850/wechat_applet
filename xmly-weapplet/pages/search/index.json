@@ -4,6 +4,7 @@
   "navigationBarTitleText": "搜索",
   "navigationBarTextStyle": "black",
   "usingComponents": {
-    "my-search": "../../components/search/index"
+    "my-search": "../../components/search/index",
+    "search-data": "./components/search-data/index"
   }
 }

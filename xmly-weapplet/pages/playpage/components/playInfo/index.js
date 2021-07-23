@@ -49,7 +49,7 @@ Component({
 
   methods: {
     handlerButtonClick(){
-      // console.log(this.data.info)
+      console.log(this.data.info)
       this.updateSubscribeData(this.data.info)
       // console.log(this.data.subscribeData)
     }

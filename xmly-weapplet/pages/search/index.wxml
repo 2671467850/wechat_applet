@@ -1,8 +1,16 @@
 <view class="search-view">
-  <my-search placeholder="搜索"></my-search>
+  <!-- <my-search placeholder="{{placeholder}}"></my-search> -->
+  <view class="v-input">
+    <image class="search-img" src="/img/search-icon.png"></image>
+    <input class="search-input" type="text" bindinput="handleSearchInput" placeholder="{{placeholder}}" />
+  </view>
 </view>
 <view wx:if="{{searchData.length}}">
-
+  <view
+    class="search-history"
+  >
+    <search-data searchlist="{{searchData}}"></search-data>
+  </view>
 </view>
 <view wx:else>
 <!-- <view> -->
@@ -16,6 +24,8 @@
         class="search-history-item"
         wx:for="{{searchHistory}}"
         wx:key="index"
+        bindtap="handlerTopClick"
+        data-kw="{{item}}"
       >{{item}}</view>
     </view>
   </view>

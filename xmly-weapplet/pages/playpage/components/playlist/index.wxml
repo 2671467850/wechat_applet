@@ -18,7 +18,10 @@
         <text bindtap="handlerPlayAllClick" class="iconfont icon-bofang"></text>
         播放全部
       </view>
-      <view class="play-control-sort">排序</view>
+      <view
+        class="play-control-sort"
+        bindtap="handlerDataListReverse"
+      >排序</view>
       <view class="play-control-check">选集</view>
     </view>
     <view class="play-list-box">

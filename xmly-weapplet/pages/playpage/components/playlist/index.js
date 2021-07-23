@@ -115,6 +115,11 @@ Component({
       this.updatePlayAll(false)
       // this.updateCurrentPageId(0)
       myaudio.pause();
+    },
+    handlerDataListReverse(){
+      this.setData({
+        list: this.data.list.reverse()
+      })
     }
   }
 })

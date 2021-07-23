@@ -14,11 +14,16 @@ Page({
     })
   },
 
-  onReady(){
-    // console.log(this.data.subscribeData)
-  },
+  // onReady(){
+  //   console.log(this.data.subscribeData)
+  // },
 
   onUnload: function () {
     this.storeBindings.destroyStoreBindings()
+  },
+
+  showSubscribeData(){
+    console.log(this.data.subscribeData)
   }
+
 })
